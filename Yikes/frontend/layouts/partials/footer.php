@@ -69,7 +69,7 @@
 				<div class="col-lg-12">
 					<div class="footer__copyright">
 						<div class="footer__copyright__text"><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							YIKES | Luôn đồng hành cùng bạn <i class="fa fa-heart" aria-hidden="true"></i> Hãy đến với chúng tôi <a href="#" target="_blank">Vsshop</a>
+							YIKES | Luôn đồng hành cùng bạn <i class="fa fa-heart" aria-hidden="true"></i> Hãy đến với chúng tôi <a href="#" target="_blank">Yikes</a>
 						</p></div>
 						<div class="footer__copyright__payment"><img src="/Yikes/assets/vendor/frontend/img/payment-item.png" alt=""></div>
 					</div>

@@ -70,7 +70,7 @@
 					<a href="/Yikes/frontend/sanpham/detail.php?sp_id=<?= $sanpham['sp_id'] ?>">
 						<div class="featured__item__pic set-bg" data-setbg="/Yikes/assets/uploads/products/<?= $sanpham['hsp_tentaptin'] ?>">
 					<?php else : ?>
-					<a href="/Yikes/frontend/sanpham/detail.php?sp_id=<?= $sanpham['sp_id'] ?>"> <div class="featured__item__pic set-bg" data-setbg="/Vsshop/assets/vendor/backend/img/default-image_600.png">
+					<a href="/Yikes/frontend/sanpham/detail.php?sp_id=<?= $sanpham['sp_id'] ?>"> <div class="featured__item__pic set-bg" data-setbg="/Yikes/assets/vendor/backend/img/default-image_600.png">
 					<?php endif; ?>
 						</div>
 					</a>

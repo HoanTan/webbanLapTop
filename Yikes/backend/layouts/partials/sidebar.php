@@ -13,7 +13,7 @@
 		</a>
 	</li>
 	<div class="sidebar-heading">
-		QUẢN LÝ VSSHOP
+		QUẢN LÝ YIKES
 	</div>
 	<li class="nav-item">
 		<a class="nav-link" href="/Yikes/backend/sanpham">
